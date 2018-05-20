@@ -1,6 +1,3 @@
-import java.io.*;
-import java.util.*;
-
 /**
 	* This class counts the number of occurences of each word in a textfile. The words
 	* are counted in a HashMap, placed in an ArrayList, and then sorted using
@@ -8,6 +5,10 @@ import java.util.*;
 	* @author Dillon Rowan.
 	* @version 05/20/2018
  */
+
+import java.io.*;
+import java.util.*;
+
 
 public class WordCounter {
 
